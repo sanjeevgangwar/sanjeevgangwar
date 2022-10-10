@@ -1,6 +1,6 @@
 <h1 align="center">Hi there👋, I'm Sanjeev Kumar</h1>
 <h3 align="center">Flutter developer, Who loves to develop Android Applications.</h3>
-<img align = "right"alt="coding"width = "400" heigt = src = "https://tenor.com/view/coding-gif-24297652">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sanjeevgangwar&label=Profile%20views&color=0e75b6&style=flat" alt="sanjeevgangwar" /> </p>
 
