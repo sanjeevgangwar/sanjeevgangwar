@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sanjeev Kumar</h1>
-<h3 align="center">Flutter developer, who loves to develop android applications.</h3>
-<img align = "right"alt="coding"width = "400" src = "https://tenor.com/bN65M.gif">
+<h3 align="center">Flutter developer, Who loves to develop Android Applications.</h3>
+<img align = "right"alt="coding"width = "400" src = "https://tenor.com/view/coding-gif-24297652">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sanjeevgangwar&label=Profile%20views&color=0e75b6&style=flat" alt="sanjeevgangwar" /> </p>
 
@@ -8,7 +8,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/sanjeevgangwar?tab=repositories](https://github.com/sanjeevgangwar?tab=repositories)
 
-- 💬 Ask me about **Flutter development,**
+- 💬 Ask me about **Flutter Development**
 
 - 📫 How to reach me **tragicomrade@gmail.com**
 
