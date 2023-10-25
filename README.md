@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **DSA with java**
 
-- 👨‍💻 All of my projects are available at [https://github.com/sanjeevgangwar](https://github.com/sanjeevgangwar)
+- 👨‍💻 All of my projects are available at [https://github.com/sanjeevgangwarr](https://github.com/sanjeevgangwarr)
 
 - 💬 Ask me about **Flutter development,**
 
