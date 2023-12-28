@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sanjeevgangwar&label=Profile%20views&color=0e75b6&style=flat" alt="sanjeevgangwar" /> </p>
 
-- 🌱 I’m currently learning **DSA with java**
+- 🌱 I’m currently learning **React.JS**
 
-- 👨‍💻 All of my projects are available at [https://github.com/sanjeevgangwarr](https://github.com/sanjeevgangwarr)
+- 👨‍💻 All of my projects are available at [https://github.com/sanjeevgangwarr](https://github.com/sanjeevgangwar)
 
 - 💬 Ask me about **Flutter development,**
 
