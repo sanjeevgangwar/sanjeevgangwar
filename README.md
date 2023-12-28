@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **React.JS**
 
-- 👨‍💻 All of my projects are available at [https://github.com/sanjeevgangwarr](https://github.com/sanjeevgangwar)
+- 👨‍💻 All of my projects are available at [https://github.com/sanjeevgangwar](https://github.com/sanjeevgangwar)
 
 - 💬 Ask me about **Flutter development,**
 
