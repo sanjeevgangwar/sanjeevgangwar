@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sanjeev Kumar</h1>
 <h3 align="center">A passionate frontend developer from India.</h3>
+<br>
 <img align = "right" alt = "Coing" width = "350" src = "https://media1.tenor.com/m/wA8Gx_UqnY4AAAAC/coding.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sanjeevgangwar&label=Profile%20views&color=0e75b6&style=flat" alt="sanjeevgangwar" /> </p>
 
