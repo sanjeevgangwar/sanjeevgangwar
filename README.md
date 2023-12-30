@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **ReactJs**
 
-- 👨‍💻 All of my projects are available at [https://sanjeevgangwar.github.io/Portfolio/](https://sanjeevgangwar.github.io/Portfolio/)
+- 👨‍💻 All of my projects are available at [My Projects](https://sanjeevgangwar.github.io/Portfolio/)
 
 - 💬 Ask me about **Flutter, RectJs**
 
